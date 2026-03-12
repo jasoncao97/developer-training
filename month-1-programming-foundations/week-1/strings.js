@@ -66,3 +66,11 @@ console.log(k - l);
 console.log("5" + 5 + 5);
 console.log(5 + 5 + "5");
 console.log("5" + 5 * 2);
+
+// ======================================
+// Example 7: True math operations
+// ======================================
+
+console.log(10-3);
+console.log(10*3);
+console.log(10/2);
