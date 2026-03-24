@@ -44,3 +44,37 @@ if (score5 > 100)
     console.log("Will this code run?");
 
 // 2nd line will always run; shows importance of curly brackets
+
+let temperature = 5;
+
+if (temperature > 10) {
+    console.log("Hot");
+} else {
+    console.log("Cold");
+}
+
+let points = 90;
+
+if (points >= 90) {
+    console.log("A");
+} else {
+    console.log("Not A");
+}
+
+let number = 45;
+
+if (number + 10 > 50) {
+    console.log("High");
+} else {
+    console.log("Low");
+}
+
+let score6 = 65;
+
+if (score6 >= 90) {
+    console.log("A");
+} else if (score6 >= 80) {
+    console.log("B");
+} else {
+    console.log("C");
+}
